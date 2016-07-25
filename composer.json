@@ -1,0 +1,7 @@
+{
+    "name": "bjyoungblood/castellan",
+    "require": {},
+    "autoload": {
+	    "psr-0": { "Castellan": "src/" }
+    }
+}
